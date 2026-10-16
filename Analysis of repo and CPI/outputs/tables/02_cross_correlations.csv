@@ -1,0 +1,5 @@
+lag_months,pearson_r,p_value,n_obs,significant_5pct
+0,0.0399,0.635,144,False
+1,0.0096,0.9091,143,False
+3,-0.0495,0.5601,141,False
+6,-0.1813,0.0333,138,True

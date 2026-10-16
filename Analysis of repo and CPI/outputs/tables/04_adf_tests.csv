@@ -1,0 +1,5 @@
+series,adf_stat,p_value,lags_used,n_obs,stationary_5pct
+CPI YoY (%),-1.3651,0.5989,14,129,False
+Repo Rate (%),-1.2676,0.6439,0,143,False
+ΔCPI (MoM change),-5.1107,0.0,13,129,True
+ΔRepo (bps),-11.9164,0.0,0,142,True

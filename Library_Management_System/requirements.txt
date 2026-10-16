@@ -1,0 +1,13 @@
+# Library Management System — Requirements
+# This project uses Python's standard library only.
+# No third-party packages are required.
+
+# Standard-library modules used (listed for documentation purposes):
+#   csv         — reading and writing CSV files
+#   os          — file system operations
+#   datetime    — date arithmetic (issue date, return date, fine calculation)
+#   collections — Counter for report aggregation
+#   typing      — type hints (List, Dict, Optional)
+
+# If you ever add pandas for reports, pin the version here:
+# pandas==2.2.2
